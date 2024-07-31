@@ -2,7 +2,7 @@
 
 Course description is available @ [SWWAO-01 Web Architecture and Orchestration](https://kursuskatalog.au.dk/en/course/117902/SWWAO-01-Web-Architecture-and-Orchestration).
 
-
+This organization is for solving out the exercises of each lecture. At the end of this course, a project including 75% of these technologies is created in another organization repo linked her below : 
 
 ## Lecture plan
 - **Week 01 (05)**
